@@ -1,0 +1,5 @@
+// Cara 1: pakai var
+var x int = 10
+
+// Cara 2: pakai :=(hanya bisa dilakukan di dalam function)
+y := 20
